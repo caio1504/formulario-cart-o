@@ -1,0 +1,14 @@
+:root {
+    --bg-hidden: #ad518d;
+    --error: hsl(0, 91%, 47%);
+    --light: hsl(170, 71%, 47%);
+    --bg-border: hsl(270, 3%, 87%);
+    --border-input: hsl(202, 73%, 47%);
+    --button-bg: hsl(249, 71%, 45%);
+    --fs: 1.8rem;
+    --gradient-border: linear-gradient(
+      to right,
+      hsl(192, 82%, 58%),
+      hsl(229, 47%, 40%)
+    )1;
+  }
